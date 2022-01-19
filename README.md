@@ -1,5 +1,6 @@
 # ./QWREEY
 ```
+AKA 'console.log(cat == cute)'
 version 17.0 beta
 LANG : Lua Shellscript Java Html Css Javascript Python C C++ Go PowershellScript Typescript Moonscript
 TOOL : Vscode Neovim Vim Nano Sublime-Text Visual-Studio Atom Intellij
