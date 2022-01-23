@@ -8,6 +8,7 @@ LANG : Lua Shellscript Java Html Css Javascript Python C C++ Go PowershellScript
 TOOL : Vscode Neovim Vim Nano Sublime-Text Visual-Studio Atom Intellij
 TERM : BASH, ZSH(WITH OMZ, P10K)
 OHTR : Windows Terminal
+THEM : Dracula, Custom theme
 
 Watch below for more informations
 ```
