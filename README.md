@@ -11,6 +11,6 @@ Watch below for more informations
 ```
 
 <div align = center>
-<img width=53.5% height=190px src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&show_icons=true&theme=radical" />
-<img width=44.5% height=190px src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&theme=radical&layout=compact" />
+<img width=53.5% height=196px src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&show_icons=true&theme=radical" />
+<img width=44.5% height=196px src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&theme=radical&layout=compact" />
 <!-- 이미지도 [<img>]() 이렇게 감싸서 링크 넣을 수 있음 -->
