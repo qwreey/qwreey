@@ -1,3 +1,4 @@
+<div align = left>
 # ./QWREEY
 ```
 AKA 'console.log(cat == cute)'
@@ -8,4 +9,7 @@ TOOL : Vscode Neovim Vim Nano Sublime-Text Visual-Studio Atom Intellij
 Watch below for more informations
 ```
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&theme=radical&layout=compact)  
+<div align = center>
+<img width=40% src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&show_icons=true&theme=radical" />
+<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&theme=radical&layout=compact" />
+<!-- 이미지도 [<img>]() 이렇게 감싸서 링크 넣을 수 있음 -->
