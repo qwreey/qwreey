@@ -9,7 +9,7 @@ TOOL : Vscode Neovim Vim Nano Sublime-Text Visual-Studio Atom Intellij
 TERM : BASH, ZSH(WITH OMZ, P10K)
 OHTR : Windows Terminal
 THEM : Dracula, Custom theme, Input Mono Font
-INTR : FFmpeg, Discord, Electron, Luvit(Lua-node), Nodejs, WebPrograming, Youtube-dl
+INTR : FFmpeg, Discord, Electron, Luvit(Lua-node), Nodejs, WebPrograming, Youtube-dl, Nodejs
 
 Watch below for more informations
 ```
