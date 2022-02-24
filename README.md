@@ -18,7 +18,9 @@ Watch below for more informations
   <img width=53.5% height=182px src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&show_icons=true&theme=radical" />
   <img width=44.5% height=182px src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&theme=radical&layout=compact" />
   <a href="https://discord.com/users/367946917197381644" target="_blank">
-    <img width=41.5% height=182px src="https://lanyard.cnrad.dev/api/367946917197381644" />
+    <div width=41.5% height=182px>
+      <img width=100% src="https://lanyard.cnrad.dev/api/367946917197381644" />
+    </div>
   </a>
  </div>
 <!-- 이미지도 [<img>]() 이렇게 감싸서 링크 넣을 수 있음 -->
