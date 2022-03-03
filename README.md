@@ -20,7 +20,7 @@ Watch below for more informations
   <a href="https://discord.com/users/367946917197381644" target="_blank">
     <img width=42.5% height=192px src="https://lanyard.cnrad.dev/api/367946917197381644" />
   </a>
-  <div width=4% height=192px></div>
+  <div width=4%></div>
   <a href="https://solved.ac/qwreey75" tatget="_blank">
     <img width=51.5% height=192px src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qwreey75">
   </a>
