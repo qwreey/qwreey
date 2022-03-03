@@ -20,5 +20,8 @@ Watch below for more informations
   <a href="https://discord.com/users/367946917197381644" target="_blank">
     <img width=41.5% height=182px src="https://lanyard.cnrad.dev/api/367946917197381644" />
   </a>
+  <a href="https://solved.ac/qwreey75" tatget="_blank">
+    <img width=56.5 height=182px src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qwreey75">
+  </a>
  </div>
 <!-- 이미지도 [<img>]() 이렇게 감싸서 링크 넣을 수 있음 -->
