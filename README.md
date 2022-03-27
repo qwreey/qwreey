@@ -1,8 +1,6 @@
-<div align = left>
+<h1 align=center>QWREEY</h1><br/>
+<h3 align=center>🛠 Tech Stack 🛠</h3><br/>
 
-# ./QWREEY
-  
-<h2 align=center width=910em>Skill</h2><br>
 
 <pre>
 AKA 'console.log(cat == cute)'
@@ -17,8 +15,8 @@ INTR : FFmpeg, Discord, Electron, Luvit(Lua-node), Nodejs, WebPrograming, Youtub
 Watch below for more informations
 </pre>
 
+<h2 align=center>Banners</h2><br/>
 <div width=100% align=center>
-  <h2>Banner</h2><br>
   <img width=490em height=188em src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&show_icons=true&theme=radical" />
   <img width=420em height=188em src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&theme=radical&layout=compact" />
   <br>
@@ -29,3 +27,5 @@ Watch below for more informations
     <img width=495em height=220em src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qwreey75">
   </a>
 </div>
+
+<h2 align=center>Repositories</h2><br/>
