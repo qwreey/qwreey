@@ -24,5 +24,4 @@ Watch below for more informations
   <a href="https://solved.ac/qwreey75" tatget="_blank">
     <img width=495em height=220em src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qwreey75">
   </a>
- </div>
-<!-- 이미지도 [<img>]() 이렇게 감싸서 링크 넣을 수 있음 -->
+</div>
