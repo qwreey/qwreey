@@ -14,9 +14,10 @@ INTR : FFmpeg, Discord, Electron, Luvit(Lua-node), Nodejs, WebPrograming, Youtub
 Watch below for more informations
 ```
 
-<div align = center>
-  <img width=53.5% height=182px src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&show_icons=true&theme=radical" />
-  <img width=44.5% height=182px src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&theme=radical&layout=compact" />
+<div width=100% align = center>
+  <img width=490em height=188em src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&show_icons=true&theme=radical" />
+  <img width=420em height=188em src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&theme=radical&layout=compact" />
+  <br>
   <a href="https://discord.com/users/367946917197381644" target="_blank">
     <img width=43.5% height=192px src="https://lanyard.cnrad.dev/api/367946917197381644" />
   </a>
