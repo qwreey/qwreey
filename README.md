@@ -1,7 +1,10 @@
 <div align = left>
 
 # ./QWREEY
-<div width=910em><pre>
+  
+<h2 align=center width=910em>Skill</h2><br>
+
+<pre>
 AKA 'console.log(cat == cute)'
 version 17.0 beta
 LANG : Lua Shellscript Java Html Css Javascript Python C C++ Go PowershellScript Typescript Moonscript
@@ -12,9 +15,10 @@ THEM : Dracula, Custom theme, Input Mono Font
 INTR : FFmpeg, Discord, Electron, Luvit(Lua-node), Nodejs, WebPrograming, Youtube-dl, Nodejs, Mkdocs
 
 Watch below for more informations
-</pre> </div>
+</pre>
 
-<div width=100% align = center>
+<div width=100% align=center>
+  <h2>Banner</h2><br>
   <img width=490em height=188em src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&show_icons=true&theme=radical" />
   <img width=420em height=188em src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&theme=radical&layout=compact" />
   <br>
