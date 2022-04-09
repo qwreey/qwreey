@@ -1,6 +1,8 @@
 <h1 align=center>QWREEY</h1><br/>
 <h3 align=center>🛠 Tech Stack 🛠</h3><br/>
 
+나는야 열일곱 개발자  
+공부가 싫어서 개발하는 신박한 사람이다  
 
 <pre>
 AKA 'console.log(cat == cute)'
