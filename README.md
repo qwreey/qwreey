@@ -19,7 +19,7 @@ INTR : FFmpeg, Discord, Electron, Luvit(Lua-node), Nodejs, WebPrograming, Youtub
 Watch below for more informations
 </pre>
 
-<h2 align=center>📃 Banners 📃</h2><br/>
+<h3 align=center>📃 Banners 📃</h2><br/>
 <div width=100% align=center>
   <img width=455em height=176em src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&show_icons=true&theme=radical" />
   <img width=385em height=176em src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&theme=radical&layout=compact" />
@@ -32,4 +32,4 @@ Watch below for more informations
   </a>
 </div>
 
-<h2 align=center>Repositories</h2><br/>
+<h3 align=center>Repositories</h2><br/>
