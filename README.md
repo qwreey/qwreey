@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=QWREEY&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=F4EDFF&height=150&section=header&text=QWREEY&fontSize=70&animation=twinkling)
 
 <div width=100% align=center>
 나는야 열일곱 개발자. 공부가 싫어서 개발하는 흔한 사람이다<br/>
