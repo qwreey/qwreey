@@ -2,7 +2,7 @@
 
 <div width=100% align=center>
 나는야 열일곱 개발자. 공부가 싫어서 개발하는 흔한 사람이다<br/>
-솔찍히 난 정말 평범해 ㅋㅋ 개발 잘하는것도 아님 ㅇㅇ
+딱히 잘하는것도 아니라 이렇게 써도 맞나 싶다
 </div>
   
 <h3 align=center>🛠 Tech Stack 🛠</h3><br/>
