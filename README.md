@@ -28,7 +28,7 @@ Watch below for more informations
     <img width=390em height=206em src="https://lanyard.cnrad.dev/api/367946917197381644" />
   </a>
   <a href="https://solved.ac/qwreey75" tatget="_blank">
-    <img width=465em height=206em src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qwreey75">
+    <img width=462em height=206em src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qwreey75">
   </a>
 </div>
 
