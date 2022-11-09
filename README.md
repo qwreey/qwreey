@@ -4,7 +4,7 @@
   </a>
   <h4>A Coding lover, Common student developer</h4>
   <p>🏳 they/them&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🇰🇷 Lives in Korea</p>
-</div><br>
+</div>
 
 <!--
 <h3 align=center>🛠 Tech Stack 🛠</h3><br/>
