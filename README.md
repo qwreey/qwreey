@@ -1,22 +1,32 @@
 <div width=100% align=center>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F4EDFF&height=150&section=header&text=QWREEY&fontSize=70&animation=twinkling"/><br/>
-나는야 개발하는 흔한 사람이다
+  <a href="https://qwreey75.github.io/">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=F4EDFF&height=150&section=header&text=QWREEY&fontSize=70&animation=twinkling"/><br/>
+  </a>
+  <p>나는야 개발하는 흔한 사람이다</p>
 </div>
-  
+
+<pre>
 Reason of why cat is cute
-  
+
 1. `(+'cat').toFixed() == (+'cute').toFixed()` is true  
 Just. Result is fixed! you can not change it!  
 2. `typeof 'cat' == typeof 'cute'` is true  
 Cat, and cute has same type!  
+</pre>
 
+<!--
 <h3 align=center>🛠 Tech Stack 🛠</h3><br/>
+-->
 
-<a href="https://qwreey75.github.io/"><kbd>&nbsp;<br>&nbsp;&nbsp;
-Homepage
-&nbsp;&nbsp;<br>&nbsp;</kbd></a>
+<h3 align=center>:link: Links :link:</h3>
+<div width=100% align=center>
+  <a href="https://qwreey75.github.io/"><kbd>&nbsp;<br>&nbsp
+  Homepage
+  &nbsp;<br>&nbsp;</kbd></a>
+</div>
 
-<pre style="display: none;">
+<!--
+<pre>
 AKA 'console.log(cat == cute)'
 version 17.0 beta
 LANG : Lua Shellscript Java Html Css Javascript Python C C++ Go PowershellScript Typescript Moonscript
@@ -28,8 +38,9 @@ INTR : FFmpeg, Discord, Electron, Luvit(Lua-node), Nodejs, WebPrograming, Youtub
 
 Watch below for more informations
 </pre>
+-->
 
-<h3 align=center>📃 Banners 📃</h2><br/>
+<h3 align=center>📃 Banners 📃</h2>
 <div width=100% align=center>
   <img width=455em height=176em src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&show_icons=true&theme=radical" />
   <img width=385em height=176em src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&theme=radical&layout=compact" />
@@ -42,4 +53,6 @@ Watch below for more informations
   </a>
 </div>
 
+<!--
 <h3 align=center>Repositories</h2><br/>
+-->
