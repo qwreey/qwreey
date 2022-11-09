@@ -15,7 +15,6 @@
   <a href="https://qwreey75.github.io/"><kbd>&nbsp;<br>&nbsp
   Homepage
   &nbsp;<br>&nbsp;</kbd></a>
-  
   <a href="[https://qwreey75.github.io/](https://extensions.gnome.org/accounts/profile/qwreey75)"><kbd>&nbsp;<br>&nbsp
   Gnome-Extensions
   &nbsp;<br>&nbsp;</kbd></a>
