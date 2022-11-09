@@ -3,8 +3,9 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=F4EDFF&height=150&section=header&text=QWREEY&fontSize=70&animation=twinkling"/><br/>
   </a>
   <p>나는야 개발하는 흔한 사람이다</p>
+  🏳 they/them
 </div>
-
+<br>
 <pre>
 Reason of why cat is cute
 
