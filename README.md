@@ -3,6 +3,13 @@
 나는야 개발하는 흔한 사람이다
 </div>
   
+Reason of why cat is cute
+  
+1. `(+'cat').toFixed() == (+'cute').toFixed()` is true  
+Just. Result is fixed! you can not change it!  
+2. `typeof 'cat' == typeof 'cute'` is true  
+Cat, and cute has same type!  
+
 <h3 align=center>🛠 Tech Stack 🛠</h3><br/>
 
 <a href="https://qwreey75.github.io/"><kbd>&nbsp;<br>&nbsp;&nbsp;
