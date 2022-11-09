@@ -13,10 +13,10 @@ Cat, and cute has same type!
 <h3 align=center>🛠 Tech Stack 🛠</h3><br/>
 
 <a href="https://qwreey75.github.io/"><kbd>&nbsp;<br>&nbsp;&nbsp;
-집가고싶다
+Homepage
 &nbsp;&nbsp;<br>&nbsp;</kbd></a>
 
-<pre>
+<pre style="display: none;">
 AKA 'console.log(cat == cute)'
 version 17.0 beta
 LANG : Lua Shellscript Java Html Css Javascript Python C C++ Go PowershellScript Typescript Moonscript
