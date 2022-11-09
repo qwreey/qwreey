@@ -40,12 +40,14 @@ Watch below for more informations
   <img width=455em height=176em src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&show_icons=true&theme=radical" />
   <img width=385em height=176em src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&theme=radical&layout=compact" />
   <br>
+  <!--
   <a href="https://discord.com/users/367946917197381644" target="_blank">
     <img width=385em height=206em src="https://lanyard.cnrad.dev/api/367946917197381644" />
   </a>
   <a href="https://solved.ac/qwreey75" tatget="_blank">
     <img width=455em height=206em src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qwreey75">
   </a>
+  -->
 </div>
 
 <!--
