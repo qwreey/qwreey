@@ -6,15 +6,6 @@
   <p>🏳 they/them&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🇰🇷 Lives in Korea</p>
 </div><br>
 
-<pre>
-Reason of why cat is cute
-
-1. `(+'cat').toFixed() == (+'cute').toFixed()` is true  
-Just. Result is fixed! you can not change it!  
-2. `typeof 'cat' == typeof 'cute'` is true  
-Cat, and cute has same type!  
-</pre>
-
 <!--
 <h3 align=center>🛠 Tech Stack 🛠</h3><br/>
 -->
@@ -57,3 +48,12 @@ Watch below for more informations
 <!--
 <h3 align=center>Repositories</h2><br/>
 -->
+
+<pre>
+Reason of why cat is cute
+
+1. `(+'cat').toFixed() == (+'cute').toFixed()` is true  
+Just. Result is fixed! you can not change it!  
+2. `typeof 'cat' == typeof 'cute'` is true  
+Cat, and cute has same type!  
+</pre>
