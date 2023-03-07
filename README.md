@@ -37,8 +37,8 @@ Watch below for more informations
 
 <h3 align=center>📃 Banners 📃</h2>
 <div width=100% align=center>
-  <img width=455em height=176em src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&show_icons=true&theme=radical" />
-  <img width=385em height=176em src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&theme=radical&layout=compact" />
+  <img width=455em height=179em src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&show_icons=true&theme=radical" />
+  <img width=385em height=179em src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&theme=radical&layout=compact" />
   <br>
   <!--
   <a href="https://discord.com/users/367946917197381644" target="_blank">
