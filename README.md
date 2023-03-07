@@ -62,3 +62,5 @@ Just. Result is fixed! you can not change it!
 2. `typeof 'cat' == typeof 'cute'` is true  
 Cat, and cute has same type!  
 </pre>
+
+💖 [@pikokr](https://github.com/pikokr) [@SeodanLee](https://github.com/SeodanLee) [@star0202](https://github.com/star0202) [@wogud0501](https://github.com/wogud0501) [@xcvbwer123-rs](https://github.com/xcvbwer123-rs) [@seomin1210](https://github.com/seomin1210) [@rihayoru](https://github.com/rihayoru) [@ktttyctty](https://github.com/ktttyctty)
