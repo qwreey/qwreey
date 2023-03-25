@@ -13,10 +13,13 @@
 <h3 align=center>:link: Links :link:</h3>
 <div width=100% align=center>
   <a href="https://qwreey75.github.io/"><kbd>&nbsp;<br>&nbsp
-  Homepage
+  🏠 Homepage
   &nbsp;<br>&nbsp;</kbd></a>
   <a href="https://extensions.gnome.org/accounts/profile/qwreey75"><kbd>&nbsp;<br>&nbsp
-  Gnome-Extensions
+  🔧 Gnome-Extensions
+  &nbsp;<br>&nbsp;</kbd></a>
+  <a href="https://toss.me/qwreey75"><kbd>&nbsp;<br>&nbsp
+  💰 Toss
   &nbsp;<br>&nbsp;</kbd></a>
 </div>
 
