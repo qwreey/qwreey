@@ -57,6 +57,7 @@ Watch below for more informations
 <h3 align=center>Repositories</h2><br/>
 -->
 
+<!--
 <pre>
 Reason of why cat is cute
 
@@ -65,9 +66,10 @@ Just. Result is fixed! you can not change it!
 2. `typeof 'cat' == typeof 'cute'` is true  
 Cat, and cute has same type!  
 </pre>
+-->
 
 <div width=100% align=center markdown>
-💖
+💖 0 tier supporter (🌟 special 🌟)
 <a href="https://github.com/pikokr">@pikokr</a>
 <a href="https://github.com/SeodanLee">@SeodanLee</a>
 <a href="https://github.com/star0202">@star0202</a>
