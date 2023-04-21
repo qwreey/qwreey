@@ -69,7 +69,7 @@ Cat, and cute has same type!
 -->
 
 <div width=100% align=center markdown>
-💖 0 tier supporter (🌟 special 🌟)
+💖 0 tier supporter (🌟 special 🌟)<br>
 <a href="https://github.com/pikokr">@pikokr</a>
 <a href="https://github.com/SeodanLee">@SeodanLee</a>
 <a href="https://github.com/star0202">@star0202</a>
