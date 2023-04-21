@@ -68,6 +68,8 @@ Cat, and cute has same type!
 </pre>
 -->
 
+<hr>
+
 <div width=100% align=center markdown>
 💖 0 tier supporter (🌟 special 🌟)<br>
 <a href="https://github.com/pikokr">@pikokr</a>
