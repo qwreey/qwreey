@@ -40,7 +40,7 @@ Watch below for more informations
 
 <h3 align=center>📃 Banners 📃</h2>
 <div width=100% align=center>
-  <img width=455em height=179em src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" />
+  <img width=455em height=179em src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&hide_border=true&show_icons=true&theme=radical" />
   <img width=385em height=179em src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&hide_border=true&theme=radical&layout=compact&langs_count=7&exclude_repo=qwreey.roblox.plugins,RBX_UI_PROJECT,mina_discord-bot,qlvm,catscript,mcFn16to17,schoolGraphProgram,Quad,discordia-enchant,termRBLX,newYearCounter" />
   <br>
   <!--
