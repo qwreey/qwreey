@@ -8,10 +8,6 @@
 
 <hr>
 
-<!--
-<h3 align=center>🛠 Tech Stack 🛠</h3><br/>
--->
-
 <h3 align=center>:link: Links :link:</h3>
 <div width=100% align=center>
   <a href="https://qwreey75.github.io/"><kbd>&nbsp;<br>&nbsp
@@ -29,6 +25,10 @@
 </div>
 
 <!--
+<h3 align=center>🛠 Tech Stack 🛠</h3><br/>
+
+TODO 이거 뱃지로 옮길래여 응애
+관심 프로젝트 적기 (미스키)
 <pre>
 AKA 'console.log(cat == cute)'
 version 17.0 beta
@@ -62,17 +62,6 @@ Watch below for more informations
 
 <!--
 <h3 align=center>Repositories</h2><br/>
--->
-
-<!--
-<pre>
-Reason of why cat is cute
-
-1. `(+'cat').toFixed() == (+'cute').toFixed()` is true  
-Just. Result is fixed! you can not change it!  
-2. `typeof 'cat' == typeof 'cute'` is true  
-Cat, and cute has same type!  
-</pre>
 -->
 
 <hr>
