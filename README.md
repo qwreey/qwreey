@@ -6,6 +6,8 @@
   <p><a href="https://en.wikipedia.org/wiki/Questioning_(sexuality_and_gender)">🏳 they/them</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🇰🇷 Live in Korea&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🐱 Love cats</p>
 </div>
 
+<hr>
+
 <!--
 <h3 align=center>🛠 Tech Stack 🛠</h3><br/>
 -->
@@ -20,6 +22,9 @@
   &nbsp;<br>&nbsp;</kbd></a>
   <a href="https://toss.me/qwreey75"><kbd>&nbsp;<br>&nbsp
   💰 Toss
+  &nbsp;<br>&nbsp;</kbd></a>
+  <a href="https://stella.place/@qwreey"><kbd>&nbsp;<br>&nbsp
+  🪐 Fediverse
   &nbsp;<br>&nbsp;</kbd></a>
 </div>
 
@@ -37,6 +42,8 @@ INTR : FFmpeg, Discord, Electron, Luvit(Lua-node), Nodejs, WebPrograming, Youtub
 Watch below for more informations
 </pre>
 -->
+
+<hr>
 
 <h3 align=center>📃 Banners 📃</h2>
 <div width=100% align=center>
@@ -69,6 +76,8 @@ Cat, and cute has same type!
 -->
 
 <hr>
+
+<h3 align=center>💖 Support 💖</h2>
 
 <div width=100% align=center markdown>
 💖 qwreey supports<br>
