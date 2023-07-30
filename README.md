@@ -71,7 +71,12 @@ Cat, and cute has same type!
 <hr>
 
 <div width=100% align=center markdown>
-💖 0 tier supporter (🌟 special 🌟)<br>
+💖 qwreey supports<br>
+<a href="https://github.com/caipira113">@caipira113 <i>(AKA stella.place maintainer)</i></a>
+</div>
+<br>
+<div width=100% align=center markdown>
+💖 0 tier supporter (🌟 special 🌟 - qwreey loves)<br>
 <a href="https://github.com/pikokr">@pikokr</a>
 <a href="https://github.com/SeodanLee">@SeodanLee</a>
 <a href="https://github.com/star0202">@star0202</a>
