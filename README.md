@@ -3,7 +3,9 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=F4EDFF&height=150&section=header&text=QWREEY&fontSize=70&animation=twinkling"/><br/>
   </a>
   <h4>A Coding lover, Common student developer</h4>
-  <p><a href="https://en.wikipedia.org/wiki/Questioning_(sexuality_and_gender)">🏳 they/them</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🇰🇷 Live in Korea&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🐱 Love cats</p>
+  <p>🏳 they/them&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🇰🇷 Live in Korea&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🐱 Love cats</p>
+  <br>
+  <p>🏳 Cisgenderless(Non-binary) Asexuality</p>
 </div>
 
 <hr>
