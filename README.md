@@ -4,7 +4,6 @@
   </a>
   <h4>A Coding lover, Common student developer</h4>
   <p>🏳 they/them&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🇰🇷 Live in Korea&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🐱 Love cats</p>
-  <br>
   <p>🏳 Cisgenderless(Non-binary) Asexuality</p>
 </div>
 
