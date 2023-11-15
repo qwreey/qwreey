@@ -20,9 +20,9 @@
   <a href="https://toss.me/qwreey75"><kbd>&nbsp;<br>&nbsp
   💰 Toss
   &nbsp;<br>&nbsp;</kbd></a>
-  <a href="https://stella.place/@qwreey"><kbd>&nbsp;<br>&nbsp
+  <!--<a href="https://stella.place/@qwreey"><kbd>&nbsp;<br>&nbsp
   🪐 Fediverse
-  &nbsp;<br>&nbsp;</kbd></a>
+  &nbsp;<br>&nbsp;</kbd></a>-->
   <a href="https://www.twitch.tv/qwreey"><kbd>&nbsp;<br>&nbsp
   📽️ Twitch
   &nbsp;<br>&nbsp;</kbd></a>
