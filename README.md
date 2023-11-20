@@ -1,7 +1,7 @@
 <div width=100% align=center>
-  <a href="https://qwreey75.github.io/">
+<!--   <a href="https://qwreey75.github.io/">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=F4EDFF&height=150&section=header&text=QWREEY&fontSize=70&animation=twinkling"/><br/>
-  </a>
+  </a> -->
   <h4>A Coding lover? Common student developer</h4>
   <p>🏳 they/them&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🇰🇷 Live in Korea&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🐱 Love cats</p>
   <p>🏳 Cisgenderless(Non-binary) Asexuality</p>
@@ -51,8 +51,8 @@ Watch below for more informations
 
 <h3 align=center>📃 Banners 📃</h2>
 <div width=100% align=center>
-  <img width=455em height=179em src="https://github-readme-stats.vercel.app/api?username=qwreey75&count_private=true&hide_border=true&show_icons=true&theme=radical" />
-  <img width=385em height=179em src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey75&hide_border=true&theme=radical&layout=compact&langs_count=7&exclude_repo=qwreey.roblox.plugins,RBX_UI_PROJECT,mina_discord-bot,qlvm,catscript,mcFn16to17,schoolGraphProgram,Quad,discordia-enchant,termRBLX,newYearCounter" />
+  <img width=455em height=179em src="https://github-readme-stats.vercel.app/api?username=qwreey&count_private=true&hide_border=true&show_icons=true&theme=radical" />
+  <img width=385em height=179em src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey&hide_border=true&theme=radical&layout=compact&langs_count=7&exclude_repo=qwreey.roblox.plugins,RBX_UI_PROJECT,mina_discord-bot,qlvm,catscript,mcFn16to17,schoolGraphProgram,Quad,discordia-enchant,termRBLX,newYearCounter" />
   <br>
   <!--
   <a href="https://discord.com/users/367946917197381644" target="_blank">
@@ -71,14 +71,10 @@ Watch below for more informations
 <hr>
 
 <h3 align=center>💖 Support 💖</h2>
-
-<div width=100% align=center markdown>
-💖 qwreey supports<br>
-<a href="https://github.com/caipira113">@caipira113 <i>(AKA stella.place maintainer)</i></a>
-</div>
-<br>
 <div width=100% align=center markdown>
 💖 0 tier supporter (🌟 special 🌟 - qwreey loves)<br>
+<a href="https://github.com/ltlapy">@ltlapy</a>
+<a href="https://github.com/caipira113">@caipira113</a>
 <a href="https://github.com/pikokr">@pikokr</a>
 <a href="https://github.com/SeodanLee">@SeodanLee</a>
 <a href="https://github.com/star0202">@star0202</a>
