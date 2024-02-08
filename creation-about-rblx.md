@@ -44,7 +44,7 @@ Roblox 공식 개발자 포럼에서 공개되었으며 14K 의 조회수를 가
 
 네이버카페 '로블록스 스튜디오 개발자 커뮤니티' 에서 공유되었습니다 [링크](https://cafe.naver.com/robloxstudio?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D30135743%2526articleid%3D980)
 
-![plugin-preview](./images/creation-about-rblx/stdtimer)
+![plugin-preview](./images/creation-about-rblx/stdtimer.png)
 
 ## Calc
 
