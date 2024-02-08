@@ -14,7 +14,6 @@ qwreey's plugins 패키지로써 다운로드하게 되면 plugins 탭에 같이
 ## Material Icons Plugin
 
 Material Icons 에셋을 사용할 수 있게 해주는 간단한 플러그인입니다.
-저의 [MaterialUI](https://sites.google.com/view/rbx-material-ui/component/button) 라이브러리로 작성되었으며 소스코드는 github 에서 공유됩니다
 
 Roblox 공식 개발자 포럼에서 공개되었으며 14K 의 조회수를 가지고 있습니다. [링크](https://devforum.roblox.com/t/plugin-material-icons-1400/906640)
 
