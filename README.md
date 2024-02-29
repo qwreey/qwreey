@@ -1,8 +1,3 @@
-<h1>No more opensource works</h1>
-
-<h3>I have no time, no money to do. I have no reason to do.</h3>
-
-<h4>Need supports? support me first.</h4>
 
 <h1>This account is on maintenance. Many repo can be changed at this time</h1>
 
