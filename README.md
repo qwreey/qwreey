@@ -86,3 +86,5 @@ Watch below for more informations
 <a href="https://github.com/ktttyctty">@ktttyctty</a>
 <a href="https://github.com/jiwonz">@jiwonz</a>
 </div>
+
+> todo: 돈벌어서+요리배워서 파링냥 맛있는거 먹이기
