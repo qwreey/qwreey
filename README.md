@@ -87,4 +87,6 @@ Watch below for more informations
 <a href="https://github.com/jiwonz">@jiwonz</a>
 </div>
 
+
 > todo: 돈벌어서+요리배워서 파링냥 맛있는거 먹이기
+> todo: 망해버린 블로그 심폐소생술
