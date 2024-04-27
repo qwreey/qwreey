@@ -73,9 +73,8 @@ Watch below for more informations
 
 <hr>
 
-<h3 align=center>💖 Support 💖</h2>
 <div width=100% align=center markdown>
-💖 0 tier supporter (🌟 special 🌟 - qwreey loves)<br>
+<h3>💜</h3><br>
 <a href="https://github.com/ltlapy">@ltlapy</a>
 <a href="https://github.com/caipira113">@caipira113</a>
 <a href="https://github.com/pikokr">@pikokr</a>
