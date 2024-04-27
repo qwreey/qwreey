@@ -88,7 +88,7 @@ Watch below for more informations
 
 <hr>
 
-<h3 align=center></h3>
+<h3 align=center>▪️ ETC ▪️</h3>
 
 <details>
       <summary>시사평론</summary>
