@@ -7,16 +7,16 @@
   <p>🏳 they/them&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Native Korean Speaker&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🐱 Love cats</p>
   <p>🏳 Cisgenderless(Non-binary) Asexuality (Unclear)</p>
   <br>
-  <p><b>차별 금지법, 학생 인권 조례 폐지는 있어선 안될 일이다.</b><br>우리나라는 시대를 역행하고 있다. 부끄러운 일이다.<br><sub>학생을 포함해, 모든 소수자는 사람으로써 사람이 마땅히 누릴 수 있는 모든 권리를 누려야한다. 그것이 정의고 국가가 가져야할 목표중 하나다.</sub></p>
+  <p><b>차별 금지법, 학생 인권 조례 폐지는 있어선 안될 일이다.</b><br>우리나라는 시대를 역행하고 있다. 부끄러운 일이다.<br><sub>학생을 포함해, 모든 소수자는 사람으로써 사람이 마땅히 누릴 수 있는 모든 권리를 누려야한다. 그것이 정의고 국가가 가져야할 목표중 하나다.<br>소수자를 배척하고 배제하고자 하는 행위는 역사적으로 그릇됨이 명확히 제시되어있다. 그래선 안되는것이 명확하다</sub></p>
 </div>
 
 <hr>
 
 <h3 align=center>:link: Links :link:</h3>
 <div width=100% align=center>
-  <a href="https://qwreey75.github.io/"><kbd>&nbsp;<br>&nbsp
+  <!-- <a href="https://qwreey75.github.io/"><kbd>&nbsp;<br>&nbsp
   🏠 Homepage
-  &nbsp;<br>&nbsp;</kbd></a>
+  &nbsp;<br>&nbsp;</kbd></a> -->
   <a href="https://extensions.gnome.org/accounts/profile/qwreey75"><kbd>&nbsp;<br>&nbsp
   🔧 Gnome-Extensions
   &nbsp;<br>&nbsp;</kbd></a>
