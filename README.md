@@ -6,8 +6,6 @@
   <h4>A common student developer</h4>
   <p>🏳 they/them&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Native Korean Speaker&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🐱 Love cats</p>
   <p>🏳 Cisgenderless(Non-binary) Asexuality (Unclear)</p>
-  <br>
-  <p><b>차별 금지법, 학생 인권 조례 폐지는 있어선 안될 일이다.</b><br>우리나라는 시대를 역행하고 있다. 부끄러운 일이다.<br><sub>학생을 포함해, 모든 소수자는 사람으로써 사람이 마땅히 누릴 수 있는 모든 권리를 누려야한다. 그것이 정의고 국가가 가져야할 목표중 하나다.<br>소수자를 배척하고 배제하고자 하는 행위는 역사적으로 그릇됨이 명확히 제시되어있다. 그래선 안되는것이 명확하다</sub></p>
 </div>
 
 <hr>
@@ -88,6 +86,12 @@ Watch below for more informations
 <a href="https://github.com/jiwonz">@jiwonz</a>
 </div>
 
+<hr>
+
+<details>
+      <summary>현 시사에 대한 평가</summary>
+      <p align=center><b>차별 금지법, 학생 인권 조례 폐지는 있어선 안될 일이다.</b><br>우리나라는 시대를 역행하고 있다. 부끄러운 일이다.<br><sub>학생을 포함해, 모든 소수자는 사람으로써 사람이 마땅히 누릴 수 있는 모든 권리를 누려야한다. 그것이 정의고 국가가 가져야할 목표중 하나다.<br>소수자를 배척하고 배제하고자 하는 행위는 역사적으로 그릇됨이 명확히 제시되어있다. 그래선 안되는것이 명확하다</sub></p>
+    </details>
 
 > todo: 돈벌어서+요리배워서 파링냥 맛있는거 먹이기
 
