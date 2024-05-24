@@ -24,9 +24,11 @@
   <!--<a href="https://stella.place/@qwreey"><kbd>&nbsp;<br>&nbsp
   🪐 Fediverse
   &nbsp;<br>&nbsp;</kbd></a>-->
+<!--
   <a href="https://www.twitch.tv/qwreey"><kbd>&nbsp;<br>&nbsp
   📽️ Twitch
   &nbsp;<br>&nbsp;</kbd></a>
+-->
 </div>
 
 <!--
