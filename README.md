@@ -1,4 +1,7 @@
-
+<div width=100% align=center>
+<img width="auto" height="160" src="./votes.png">
+<p><sub>&lt;&lt; 님들이 원한거야</sub></p>
+</div>
 <div width=100% align=center>
 <!--   <a href="https://qwreey75.github.io/">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=F4EDFF&height=150&section=header&text=QWREEY&fontSize=70&animation=twinkling"/><br/>
