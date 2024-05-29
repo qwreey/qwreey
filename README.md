@@ -55,7 +55,7 @@ Watch below for more informations
 
 <hr>
 
-<h3 align=center>📃 모에로 승부보는 서비스 📃</h2>
+<h3 align=center>💥 모에로 승부보는 서비스 💥</h2>
 <div align=center>
 <sup>kawaii services</sup>
 <br>
