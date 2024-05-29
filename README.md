@@ -55,6 +55,14 @@ Watch below for more informations
 
 <hr>
 
+<h3 align=center>📃 모에로 승부보는 서비스 📃</h2>
+<div align=center>
+<sup>kawaii services</sup>
+<br>
+<p><a href="https://paste.async.moe">paste.async.moe</a> - Pastebin alike code share service</p>
+<p><a href="https://status.async.moe">status.async.moe</a> - Service status of async.moe</p>
+</div>
+
 <h3 align=center>📃 Banners 📃</h2>
 <div width=100% align=center>
   <img width=455em height=179em src="https://github-readme-stats.vercel.app/api?username=qwreey&count_private=true&hide_border=true&show_icons=true&theme=radical" />
