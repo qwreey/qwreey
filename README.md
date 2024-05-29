@@ -62,6 +62,7 @@ Watch below for more informations
 <p><a href="https://paste.async.moe">paste.async.moe</a> - Pastebin alike code share service</p>
 <p><a href="https://status.async.moe">status.async.moe</a> - Service status of async.moe</p>
 </div>
+<hr>
 
 <h3 align=center>📃 Banners 📃</h2>
 <div width=100% align=center>
