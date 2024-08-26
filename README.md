@@ -1,4 +1,5 @@
-<h1>끼얏호~ 보이드 포인터를 읽고싶어요@!!</h1>
+<h1 align=center>끼얏호~ 보이드 포인터를 읽고싶어요@!!</h1>
+<p align=center>당신은 Person trait 을 구현합니까? 대단한!</p>
 
 <div width=100% align=center>
 <img width="auto" height="160" src="./votes.png">
