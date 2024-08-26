@@ -1,3 +1,5 @@
+<h1>끼얏호~ 보이드 포인터를 읽고싶어요@!!</h1>
+
 <div width=100% align=center>
 <img width="auto" height="160" src="./votes.png">
 <p><sub>&lt;&lt; 님들이 원한거야</sub></p>
