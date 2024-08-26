@@ -19,7 +19,7 @@ Lua: 개인적은 툴킷으로써 luajit, lua5.1 를 좋아합니다. 다만 lua
 Rust: 언어의 딥 / 다크한 문서화되지 않은 부분과 RFC 들을 돌아보는 정도. 개인적으로 lune 개발을 위해 배우기 시작했으나 소문과 다르게 상당히 쉬웠습니다 **가끔 컴파일러가 이상할 때 빼고는요**. 성능이 필요한 개인 프로젝트에서 쓰고싶은 의향이 있습니다.
 
 Javascript: 프로덕션 래밸의 언어입니다. deno 는 사용하지 않습니다 *not ready for prod* nodejs 와 typescript 를 사용합니다. 프론트 래밸은 svelte, react, vue 를 주로 사용합니다. 기여한 프로젝트로써는 액티비티펍 기반 SNS 플랫폼인 Cherrypick 과 Misskey, 개인 프로젝트로써는 Gnome-shell 을 위한, 20만 다운로드 규모의 익스텐션 'qst' 가 있습니다.
-<sub>나 대신 .d.ts 써줘 <sub>.node_modules 나보다 무거워보여...</sub></sub>
+<sub>나 대신 .d.ts 써줘 <sub>.node_modules 나보다 무거워보여...<sub>jquery 보면 비명지를지도 몰라요</sub></sub></sub>
 
 C++/C: 거의 PS 를 위해 사용합니다. 이것을 사용하기 보다 go, rust 를 선호합니다. <sub>void* 를 읽고싶어졌어요. 아니면 nullptr?/sub>
 
