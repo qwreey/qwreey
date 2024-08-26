@@ -1,5 +1,7 @@
 <h1 align=center>끼얏호~ 보이드 포인터를 읽고싶어요@!!</h1>
-<p align=center>당신은 Person trait 을 구현합니까? 대단한!</p>
+
+:lang_rust:
+<p align=center>당신은 Person trait 을 구현합니까? 대단한! T 는 From&amp;gt;U&amp;lt; 일 수 있습니까? 정말 dyn 한 언어 그것은 완벽한</p>
 
 <div width=100% align=center>
 <img width="auto" height="160" src="./votes.png">
