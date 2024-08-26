@@ -8,7 +8,7 @@
 <p align=right>이 README.md 는 [kawaii-license](https://github.com/qwreey/kawaii-license) 아래, 아무 보증(묵시적 또는 명시적) 없이 있는 그대로 제공될까요?</p>
 
 <p align=right>Segmentation perfection (dump cored)</p>
-<small>그만. 그만해</small>
+<sup>그만. 그만해</sup>
 
 ---
 
