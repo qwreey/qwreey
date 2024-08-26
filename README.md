@@ -5,7 +5,7 @@
 
 &gt;i&gt;이건 단단히 미쳤다!&lt;\\i&lt; 녹으로 구현하다 &Any that smashEs Head&gt;T&lt;
 
-이 README.md 는 [kawaii-license](https://github.com/qwreey/kawaii-license) 아래, 아무 보증(묵시적 또는 명시적) 없이 있는 그대로 제공될까요?
+<p align=right>이 README.md 는 [kawaii-license](https://github.com/qwreey/kawaii-license) 아래, 아무 보증(묵시적 또는 명시적) 없이 있는 그대로 제공될까요?</p>
 
 ---
 
