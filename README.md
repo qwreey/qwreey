@@ -21,9 +21,9 @@ Rust: 언어의 딥 / 다크한 문서화되지 않은 부분과 RFC 들을 돌�
 Javascript: 프로덕션 래밸의 언어입니다. deno 는 사용하지 않습니다 *not ready for prod* nodejs 와 typescript 를 사용합니다. 프론트 래밸은 svelte, react, vue 를 주로 사용합니다. 기여한 프로젝트로써는 액티비티펍 기반 SNS 플랫폼인 Cherrypick 과 Misskey, 개인 프로젝트로써는 Gnome-shell 을 위한, 20만 다운로드 규모의 익스텐션 'qst' 가 있습니다.
 <sub>나 대신 .d.ts 써줘 <sub>.node_modules 나보다 무거워보여...</sub></sub>
 
-C++/C: 거의 PS 를 위해 사용합니다. 이것을 사용하기 보다 go, rust 를 선호합니다. <sub>void* 를 읽고싶어졌어요. 아니면 nullptr?/sub>
+C++/C: 거의 PS 를 위해 사용합니다. 이것을 사용하기 보다 go, rust 를 선호합니다. <sub>void* 를 읽고싶어졌어요. <sub>아니면 nullptr?</sub></sub>
 
-Perl, Bash, Zsh, Sh, Awk, ...: 시스템을 관리하기 위해, 자동화를 위해 거의 매일 사용합니다. Perl? `map{$m=$r=map{($A,$B)=split' ',<>;$j[$A-1]=$B}@j=1..<>;$m>=$_?$m=$_:$r--for@j;print$r,$/}1..<>` 숏코딩으로 시작했습니다.
+Perl, Bash, Zsh, Sh, Awk, ...: 시스템을 관리하기 위해, 자동화를 위해 거의 매일 사용합니다. <sub>Perl? `map{$m=$r=map{($A,$B)=split' ',<>;$j[$A-1]=$B}@j=1..<>;$m>=$_?$m=$_:$r--for@j;print$r,$/}1..<>` 숏코딩으로 시작했습니다.</sub>
 
 Python: 서비스를 위한 부분에서는 좋아하는 언어가 아닙니다만, in some purpose, such as ml, ai, math, 최고입니다. 그런 부분에서만 사용하고 있습니다.
 
