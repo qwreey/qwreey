@@ -3,6 +3,8 @@
 :lang_rust:
 <p align=center>당신은 Person trait 을 구현합니까? 대단한! T 는 From&amp;gt;U&amp;lt; 일 수 있습니까? 정말 dyn 한 언어 그것은 완벽한</p>
 
+&gt;i&gt;이건 단단히 미쳤다!&lt;\\i&lt; 녹으로 구현하다 &Any that smashEs Head<T>
+
 <div width=100% align=center>
 <img width="auto" height="160" src="./votes.png">
 <p><sub>&lt;&lt; 님들이 원한거야</sub></p>
