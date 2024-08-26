@@ -29,6 +29,9 @@ Python: 서비스를 위한 부분에서는 좋아하는 언어가 아닙니다�
 
 Java/kotlin/go: 사용할 수 있으나, 깊지 않습니다. 깊다의 조건은 인터널한 부분을 아는 여부입니다.
 
+<h3 align=center>오픈소스는 사랑입니다.</h3>
+<p align=center>지금, 같이 만들고, 만드는 이들에게 도움을 제공하세요.</p>
+
 <div width=100% align=center>
 <img width="auto" height="160" src="./votes.png">
 <p><sub>&lt;&lt; 님들이 원한거야</sub></p>
