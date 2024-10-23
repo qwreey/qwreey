@@ -1,51 +1,14 @@
-<h1 align=center>끼얏호~ 보이드 포인터를 읽고싶어요@!!</h1>
-
-#!/bin/cargo
-<p align=center>당신은 Person trait 을 구현합니까? 대단한! T 는 From&amp;gt;U&amp;lt; 일 수 있습니까? 정말 dyn 한 언어 그것은 완벽한</p>
-
-&gt;i&gt;이건 단단히 미쳤다!&lt;\\i&lt; 녹으로 구현하다 &Any that smashEs Head&gt;T&lt;
-
-<p align=right>이 README.md 는 [kawaii-license](https://github.com/qwreey/kawaii-license) 아래, 아무 보증(묵시적 또는 명시적) 없이 있는 그대로 제공될까요?</p>
-
-<p align=right>Segmentation perfection (dump cored)</p>
-<sup>그만. 그만해</sup> exited with -255
-
----
-
-무슨 언어를 사용합니까?
-
-Lua: 개인적은 툴킷으로써 luajit, lua5.1 를 좋아합니다. 다만 lua5.3 lua5.4 계열은 피하는 편입니다(파편화로 인하여). 요즘의 경우 luau 를 눈여겨보고 있습니다. libuv, libregex, luaopenssl 이 바인딩되어진 luvit 툴킷을 주로 사용하였으나 luajit 와 해당 툴킷의 개발이 거의 끊어진 상태이기 때문에 lune 프로젝트를 만지고 있습니다. lune-std-ffi 부분을 구현하기 위해 노력하고 있으며, 개인적인 툴킷으로써 포크 luna 를 사용합니다. 이 언어 부분에서는 바이트코드와 codegen 부분, 바인딩과 다양한 부분을 이해하고 있어 가장 전문화되어있습니다. 개인 프로젝트로써는 Mina 디스코드봇이 있습니다. 일반적인 djs 나 dpy 를 사용하지 않고 discordia 를 포크하여 적절히 mixin, patch 하여 사용하였습니다.
-
-Rust: 언어의 딥 / 다크한 문서화되지 않은 부분과 RFC 들을 돌아보는 정도. 개인적으로 lune 개발을 위해 배우기 시작했으나 소문과 다르게 상당히 쉬웠습니다 **가끔 컴파일러가 이상할 때 빼고는요**. 성능이 필요한 개인 프로젝트에서 쓰고싶은 의향이 있습니다.
-
-Javascript: 프로덕션 래밸의 언어입니다. deno 는 사용하지 않습니다 *not ready for prod* nodejs 와 typescript 를 사용합니다. 프론트 래밸은 svelte, react, vue 를 주로 사용합니다. 기여한 프로젝트로써는 액티비티펍 기반 SNS 플랫폼인 Cherrypick 과 Misskey, 개인 프로젝트로써는 Gnome-shell 을 위한, 20만 다운로드 규모의 익스텐션 'qst' 가 있습니다.
-<sub>나 대신 .d.ts 써줘 <sub>.node_modules 나보다 무거워보여...</sub></sub>
-
-C++/C: 거의 PS 를 위해 사용합니다. 이것을 사용하기 보다 go, rust 를 선호합니다. <sub>void* 를 읽고싶어졌어요. <sub>아니면 nullptr?</sub></sub>
-
-Perl, Bash, Zsh, Sh, Awk, ...: 시스템을 관리하기 위해, 자동화를 위해 거의 매일 사용합니다. <sub>Perl? `map{$m=$r=map{($A,$B)=split' ',<>;$j[$A-1]=$B}@j=1..<>;$m>=$_?$m=$_:$r--for@j;print$r,$/}1..<>` 숏코딩으로 시작했습니다.</sub>
-
-Python: 서비스를 위한 부분에서는 좋아하는 언어가 아닙니다만, in some purpose, such as ml, ai, math, 최고입니다. 그런 부분에서만 사용하고 있습니다.
-
-Java/kotlin/go: 사용할 수 있으나, 깊지 않습니다. 깊다의 조건은 인터널한 부분을 아는 여부입니다.
-
-<h3 align=center>오픈소스는 사랑입니다.</h3>
-<p align=center>지금, 같이 만들고, 만드는 이들에게 도움을 제공하세요.</p>
 
 <div width=100% align=center>
-<img width="auto" height="160" src="./votes.png">
-<p><sub>&lt;&lt; 님들이 원한거야</sub></p>
-</div>
-<div width=100% align=center>
-<!--   <a href="https://qwreey75.github.io/">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=F4EDFF&height=150&section=header&text=QWREEY&fontSize=70&animation=twinkling"/><br/>
-  </a> -->
-<!--   <h4>A common academic developer</h4> -->
-  <p><sub>🏳 they/them&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🇰🇷 Native Korean Speaker&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🐱 Love cats</sub></p>
+<h4>Hobby hobby Happy~ Developer</h4>
+<p><sub>🏳 they/them&nbsp;&nbsp;|&nbsp;&nbsp;🇰🇷 Native Korean</sub></p>
+<p>
+LuaJIT Luau lover - using Luvit and Lune for runtime<br><br>
+Gnome shell extension developer - Quick settings tweaker<br><br>
+Love open-source project - let's develop!<br>
+</p>
 <!--   <p><sub>🏳 Cisgenderless(Non-binary) Asexuality (Unclear)</sub></p> -->
 </div>
-
-<hr>
 
 <h3 align=center>:link: Links :link:</h3>
 <div width=100% align=center>
