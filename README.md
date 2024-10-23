@@ -98,14 +98,3 @@ Watch below for more informations
 </div>
 
 <hr>
-
-<h3 align=center>▪️ ETC ▪️</h3>
-
-<details>
-  <summary>의미가 있는지도 모르겠는 TODO</summary>
-  <blockquote>
-    todo: 돈벌어서+요리배워서 파링냥 맛있는거 먹이기<br>
-    todo: 망해버린 블로그 심폐소생술<br>
-    todo: 어제보다 더 나은 사람이 되기. 기계가 되지 말기
-  </blockquote>
-</details>
