@@ -89,9 +89,9 @@ Watch below for more informations
 
 <hr>
 
-<h3 align=center>💥 모에로 승부보는 서비스 💥</h2>
+<h3 align=center>💥 Public services 💥</h2>
 <div align=center>
-<sup>kawaii services</sup>
+<sup>async.moe services</sup>
 <br>
 <p><a href="https://paste.async.moe">paste.async.moe</a> - Pastebin alike code share service</p>
 <p><a href="https://status.async.moe">status.async.moe</a> - Service status of async.moe</p>
