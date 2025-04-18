@@ -4,8 +4,7 @@
 <p><sub>🏳 they/them (enby)&nbsp;&nbsp;|&nbsp;&nbsp;🇰🇷 Native Korean</sub></p>
 <p>
 LuaJIT Luau lover - using Luvit and Lune for runtime<br><br>
-Gnome shell extension developer - Quick settings tweaker<br><br>
-Love open-source project - let's develop!<br>
+We love open-source, we love development<br>
 </p>
 </div>
 
