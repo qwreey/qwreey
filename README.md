@@ -1,13 +1,12 @@
 
 <div width=100% align=center>
 <h4>Hobby hobby Happy~ Developer</h4>
-<p><sub>🏳 they/them&nbsp;&nbsp;|&nbsp;&nbsp;🇰🇷 Native Korean</sub></p>
+<p><sub>🏳 they/them (enby)&nbsp;&nbsp;|&nbsp;&nbsp;🇰🇷 Native Korean</sub></p>
 <p>
 LuaJIT Luau lover - using Luvit and Lune for runtime<br><br>
 Gnome shell extension developer - Quick settings tweaker<br><br>
 Love open-source project - let's develop!<br>
 </p>
-<!--   <p><sub>🏳 Cisgenderless(Non-binary) Asexuality (Unclear)</sub></p> -->
 </div>
 
 <h3 align=center>:link: Links :link:</h3>
@@ -18,9 +17,6 @@ Love open-source project - let's develop!<br>
   <a href="https://extensions.gnome.org/accounts/profile/qwreey75"><kbd>&nbsp;<br>&nbsp
   🔧 Gnome-Extensions
   &nbsp;<br>&nbsp;</kbd></a>
-  <a href="https://toss.me/qwreey75"><kbd>&nbsp;<br>&nbsp
-  💰 Toss
-  &nbsp;<br>&nbsp;</kbd></a>
   <!--<a href="https://stella.place/@qwreey"><kbd>&nbsp;<br>&nbsp
   🪐 Fediverse
   &nbsp;<br>&nbsp;</kbd></a>-->
@@ -30,25 +26,6 @@ Love open-source project - let's develop!<br>
   &nbsp;<br>&nbsp;</kbd></a>
 -->
 </div>
-
-<!--
-<h3 align=center>🛠 Tech Stack 🛠</h3><br/>
-
-TODO 이거 뱃지로 옮길래여 응애
-관심 프로젝트 적기 (미스키)
-<pre>
-AKA 'console.log(cat == cute)'
-version 17.0 beta
-LANG : Lua Shellscript Java Html Css Javascript Python C C++ Go PowershellScript Typescript Moonscript
-TOOL : Vscode Neovim Vim Nano Sublime-Text Visual-Studio Atom Intellij
-TERM : BASH, ZSH(WITH OMZ, P10K)
-OHTR : Windows Terminal
-THEM : Dracula, Custom theme, Input Mono Font
-INTR : FFmpeg, Discord, Electron, Luvit(Lua-node), Nodejs, WebPrograming, Youtube-dl, Nodejs, Mkdocs
-
-Watch below for more informations
-</pre>
--->
 
 <hr>
 
