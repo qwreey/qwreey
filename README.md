@@ -15,6 +15,10 @@ We love open-source, we love development<br>
   <a href="https://extensions.gnome.org/accounts/profile/qwreey75"><kbd>&nbsp;<br>&nbsp
   🔧 Gnome-Extensions
   &nbsp;<br>&nbsp;</kbd></a>
+  <a href="https://github.com/sponsors/qwreey"><kbd>&nbsp;<br>&nbsp
+  🩷 Github-Sponsor
+  &nbsp;<br>&nbsp;</kbd></a>
+  
   <!--<a href="https://stella.place/@qwreey"><kbd>&nbsp;<br>&nbsp
   🪐 Fediverse
   &nbsp;<br>&nbsp;</kbd></a>-->
