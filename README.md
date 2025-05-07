@@ -59,7 +59,7 @@ We love open-source, we love development<br>
 
 <div width=100% align=center markdown>
 <h3>💜</h3><br>
-<a href="https://github.com/paring-chan">@paring-chan</a>
+<a href="https://github.com/paring-chan">@paring-chan</a> &lt; She is my best teacher!!!<br>
 <a href="https://github.com/xcvbwer123-rs">@xcvbwer123-rs</a>
 <a href="https://github.com/ltlapy">@ltlapy</a>
 <a href="https://github.com/caipira113">@caipira113</a>
