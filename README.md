@@ -67,7 +67,8 @@ We love open-source, we love development<br>
 <a href="https://github.com/wogud0501">@wogud0501</a>
 <a href="https://github.com/seomin1210">@seomin1210</a>
 <a href="https://github.com/jiwonz">@jiwonz</a>
-<small>DM me if you want to listed</small>
+<br>
+<sub>DM me if you want to listed</sub>
 </div>
 
 <hr>
