@@ -3,6 +3,7 @@
 <p><sub>🏳 they/them (enby)&nbsp;&nbsp;|&nbsp;&nbsp;🇰🇷 Native Korean</sub></p>
 <p>
 LuaJIT Luau lover - using Luvit and Lune for runtime<br><br>
+love Rust Kotlin
 We love open-source, we love development<br>
 </p>
 </div>
