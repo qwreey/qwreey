@@ -5,8 +5,7 @@
 LuaJIT Luau lover - using Luvit and Lune for runtime<br><br>
 love Rust Kotlin
 We love open-source, we love development<br><br>
-
-귀여운 유전자는 분명히 존재합니다
+<sub>귀여운 유전자는 분명히 존재합니다</sub>
 </p>
 </div>
 
