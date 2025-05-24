@@ -2,11 +2,11 @@
 <h4>Hobby hobby Happy~ Developer</h4>
 <p><sub>🏳 they/them (enby)&nbsp;&nbsp;|&nbsp;&nbsp;🇰🇷 Native Korean</sub></p>
 <img alt="미쿠미쿠하게" src="https://github.com/user-attachments/assets/b8d7d3da-7552-4451-8c9b-fcd04a65e98a">
+<p><sup>귀여운 유전자는 분명히 존재합니다</sup></p>
 <p>
 LuaJIT Luau lover - using Luvit and Lune for runtime<br><br>
 love Rust Kotlin
-We love open-source, we love development<br><br>
-<sub>귀여운 유전자는 분명히 존재합니다</sub>
+We love open-source, we love development
 </p>
 </div>
 
