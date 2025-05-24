@@ -1,6 +1,7 @@
 <div width=100% align=center>
 <h4>Hobby hobby Happy~ Developer</h4>
 <p><sub>🏳 they/them (enby)&nbsp;&nbsp;|&nbsp;&nbsp;🇰🇷 Native Korean</sub></p>
+<img alt="미쿠미쿠하게" src="https://github.com/user-attachments/assets/b8d7d3da-7552-4451-8c9b-fcd04a65e98a">
 <p>
 LuaJIT Luau lover - using Luvit and Lune for runtime<br><br>
 love Rust Kotlin
