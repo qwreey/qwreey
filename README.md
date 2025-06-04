@@ -2,6 +2,8 @@
 <h4>Hobby hobby Happy~ Developer</h4>
 <p><sub>🏳 they/them (enby)&nbsp;&nbsp;|&nbsp;&nbsp;🇰🇷 Native Korean</sub></p>
 <img alt="미쿠미쿠하게" src="https://github.com/user-attachments/assets/b8d7d3da-7552-4451-8c9b-fcd04a65e98a">
+<img alt="헉헉헉헉" src="https://github.com/user-attachments/assets/59395738-be28-4290-8a38-a4077fe0d5d4">
+
 <p><sup>귀여운 유전자는 분명히 존재합니다</sup></p>
 <p>
   마법공학시스템(backend) 조율자입니다(developer).<br><sup>더 거대한 간식비를 가지고 싶어요. 마법공학전송으로 간식좀 나눠주세요</sup><br><br>
