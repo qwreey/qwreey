@@ -9,6 +9,7 @@
   마법공학시스템(backend) 조율자입니다(developer).<br><sup>더 거대한 간식비를 가지고 싶어요. 마법공학전송으로 간식좀 나눠주세요</sup><br><br>
 러스트랑 코틀린 좋아합니다 🦀, 그리고 오픈소스도<br>
 <sup>We love open-source, we love development</sup>
+  <sub>우우우자바노잼 우우우우우</sub>
 </p>
 </div>
 
