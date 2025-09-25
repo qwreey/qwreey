@@ -67,6 +67,7 @@
 
 <hr>
 
+<!--
 <div width=100% align=center markdown>
 <h3>💜</h3><br>
 <a href="https://github.com/paring-chan">@paring-chan</a> &lt; She is my best teacher!!!<br>
@@ -80,5 +81,6 @@
 <br>
 <sub>DM me if you want to listed</sub>
 </div>
+-->
 
 <hr>
