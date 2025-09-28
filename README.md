@@ -65,8 +65,6 @@
 <h3 align=center>Repositories</h2><br/>
 -->
 
-<hr>
-
 <!--
 <div width=100% align=center markdown>
 <h3>💜</h3><br>
@@ -82,5 +80,3 @@
 <sub>DM me if you want to listed</sub>
 </div>
 -->
-
-<hr>
