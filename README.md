@@ -1,6 +1,6 @@
 <div width=100% align=center>
 <h4>Hobby hobby Happy~ Developer</h4>
-<p><sub>🏳 they/them (enby)&nbsp;&nbsp;|&nbsp;&nbsp;🇰🇷 Native Korean</sub></p>
+<p><sub>🏳 they/them&nbsp;&nbsp;|&nbsp;&nbsp;🇰🇷 Native Korean</sub></p>
 <img alt="미쿠미쿠하게" src="https://github.com/user-attachments/assets/b8d7d3da-7552-4451-8c9b-fcd04a65e98a">
 <img alt="헉헉헉헉" src="https://github.com/user-attachments/assets/59395738-be28-4290-8a38-a4077fe0d5d4">
 
@@ -9,7 +9,6 @@
   마법공학시스템(backend) 조율자입니다(developer).<br><sup>더 거대한 간식비를 가지고 싶어요. 마법공학전송으로 간식좀 나눠주세요</sup><br><br>
 러스트랑 코틀린 좋아합니다 🦀, 그리고 오픈소스도<br>
 <sup>We love open-source, we love development</sup><br>
-<sub>우우우 자바 노잼 우우우우우</sub>
 </p>
 </div>
 
