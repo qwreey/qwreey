@@ -3,6 +3,7 @@
 <p><sub>🏳 they/them&nbsp;&nbsp;|&nbsp;&nbsp;🇰🇷 Native Korean</sub></p>
 <img alt="미쿠미쿠하게" src="https://github.com/user-attachments/assets/b8d7d3da-7552-4451-8c9b-fcd04a65e98a">
 <img alt="헉헉헉헉" src="https://github.com/user-attachments/assets/59395738-be28-4290-8a38-a4077fe0d5d4">
+<a href="https://picrew.me/share?cd=QmxAERPfgP">pfp</a>
 
 <p><sup>귀여운 유전자는 분명히 존재합니다</sup></p>
 <p>
