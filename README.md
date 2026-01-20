@@ -6,7 +6,7 @@
 <br>
 <a href="https://picrew.me/share?cd=QmxAERPfgP">pfp</a>
 
-<p><sup>귀여운 유전자는 분명히 존재합니다</sup></p>
+<p><sup>귀여운 유전자는 분명히 존재합니다 refer: <a href="https://github.com/yaeju1205">Yaeju1205</a></sup></p>
 <p>
   마법공학시스템(backend) 조율자입니다(developer).<br><sup>더 거대한 간식비를 가지고 싶어요. 마법공학전송으로 간식좀 나눠주세요</sup><br><br>
 러스트랑 코틀린 좋아합니다 🦀, 그리고 오픈소스도<br>
